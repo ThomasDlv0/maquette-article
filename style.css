@@ -81,6 +81,10 @@ body {
     margin-left: 10px;
 }
 
+.content-profile-image>p{
+    margin: 2px 0;
+}
+
 .content-profile-image>p:first-child {
     font-weight: 500;
     color: hsl(217, 19%, 35%);
