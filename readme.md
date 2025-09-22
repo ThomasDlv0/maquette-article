@@ -1,5 +1,9 @@
 # Front-end Style Guide
 
+### Links
+- [Maquette-article](https://thomasdlv0.github.io/maquette-article/) 
+
+  
 ## Layout
 
 Media queries breakpoints
